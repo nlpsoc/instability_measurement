@@ -14,7 +14,7 @@
 Our experiments are performed using Python 3.7. 
 ```
 torch==1.10.1
-Transformers==4.14.1
+transformers==4.14.1
 datasets==1.9.0
 tensorboardX
 pingouin
@@ -59,10 +59,10 @@ python compute_subsampling_dist.py --task_names rte mrpc cola --model_names bert
 
 **Step 5: Run analyses in Section 5 and Section 6 of the paper**
 
-See ```analyze_measures.ipynb```
+See ```analyze_measures.ipynb```.
 
 If you find this repository useful, 
-please consider cite our paper
+please consider cite our paper:
 ```
 @article{du-nguyen-2023-measuring,
   author     = {Yupei Du and
