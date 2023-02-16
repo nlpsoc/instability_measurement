@@ -69,10 +69,10 @@ please consider cite our paper:
                 Dong Nguyen},
   title      = {Measuring the Instability of Fine-Tuning},
   journal    = {CoRR},
-  volume     = {abs/23xx.xxxxx},
+  volume     = {abs/2302.07778},
   year       = {2023},
-  url        = {https://arxiv.org/abs/23xx.xxxxx},
+  url        = {https://arxiv.org/abs/2302.07778},
   eprinttype = {arXiv},
-  eprint     = {23xx.xxxxx},
+  eprint     = {2302.07778},
 }
 ```
